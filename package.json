@@ -1,0 +1,18 @@
+{
+  "author": "David McMullin",
+  "name": "loggify",
+  "description": "wraps functions, constructors and util object style collections of functions in entrance and exit logs using a logger provided by the consumer",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/davecocoa/loggify.git"
+  },
+  "main": "./loggify",
+  "keywords": [
+    "log",
+    "logger",
+    "enter",
+    "exit"
+  ],
+  "dependencies": {}
+}
